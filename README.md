@@ -8,7 +8,7 @@ or download the source code from:<br/>
 We would like you to be a part of this revolution. <br/>
 #It's time to move forward, and Bring the Change!<br/>
 <br/>
-#~ HELIOS<br/>
+~ HELIOS<br/>
 Initiative by:<br/> 
   Sanat Garg<br/>
   XI A<br/>
