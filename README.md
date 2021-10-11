@@ -1,5 +1,5 @@
 # Helios - Electric Cars, Solar Energy & More
-Hey there! We're here to announce our startup HELIOS that is an emerging EV manufacturer and distributor. We have plans to reduce carbon emissions that is being outrageously spread by the automobile industry worldwide and "Recover the World" from the global climate change. We have produced a website that showcases our company's products, values and future plans. You can have a look at it: <br/>
+Hey there! We're here to announce our startup HELIOS that is an emerging EV manufacturer and distributor. We have plans to reduce carbon emissions that is being outrageously spread by the automobile industry worldwide and "Recover the World" from global climate change. We have produced a website that showcases our company's products, values, and future plans. You can have a look at it: <br/>
   --> https://www.signaxo.com/montfort/<br/>
 or download the source code from:<br/>
   --> https://github.com/sanat-garg/helios<br/>
