@@ -15,3 +15,5 @@ Initiative by:<br/>
   Bal Bharati Public School, Rohini, Delhi<br/>
 
 
+
+[![CI](https://github.com/sanat-garg/helios/actions/workflows/ci.yml/badge.svg)](https://github.com/sanat-garg/helios/actions/workflows/ci.yml)
